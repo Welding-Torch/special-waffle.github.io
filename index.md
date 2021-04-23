@@ -1,4 +1,6 @@
-## Welcome to GitHub Pages
+## Welcome to My Blog
+
+This is my main website hosted on GitHub Pages.
 
 You can use the [editor on GitHub](https://github.com/Welding-Torch/special-waffle.github.io/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
