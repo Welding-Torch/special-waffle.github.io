@@ -40,6 +40,8 @@
   [![forthebadge](https://forthebadge.com/images/badges/uses-js.svg)](https://forthebadge.com)
   [![forthebadge](https://forthebadge.com/images/badges/uses-git.svg)](https://forthebadge.com)
   [![forthebadge](https://forthebadge.com/images/badges/works-on-my-machine.svg)](https://forthebadge.com)
+  
+  ![Thadomal](https://img.shields.io/badge/Rotaract_Club-K.C._College_-yellow?logo=rotaryinternational)
 
 I AM MAKING PROGRESS IN THE DOCS
 
